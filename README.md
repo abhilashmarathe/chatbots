@@ -1,6 +1,3 @@
-# chatbots
-This repository contains two end-to-end AI chatbots built using Python, Streamlit, and OpenAI GPT models.
-
 <h1 align="center">🤖 Chatbots — AI Resume Screener & Content Generator</h1>
 
 <p align="center">
@@ -29,3 +26,27 @@ Generate high-quality marketing content instantly.
 
 **Outputs Supported**
 - Email copy (w/ subject + CTA)
+- LinkedIn / Social Media Post
+- Blog article outline
+
+**Custom Controls**
+- Product / Service name
+- Target audience
+- Tone selection
+- Word count
+
+---
+
+## 🧰 Tech Stack
+| Component | Technology |
+|----------|------------|
+| Backend | Python 3 |
+| UI | Streamlit |
+| AI Models | OpenAI GPT + Embeddings |
+| Parsing | pdfplumber, python-docx |
+| Data | numpy, pandas |
+| Environment | dotenv |
+
+---
+
+## 📂 Project Structure
